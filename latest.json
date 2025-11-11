@@ -1,8 +1,9 @@
 {
-  "version": "1.0.6",
-  "download": "https://github.com/rlaehgus12123/GhostOverlay/releases/download/1.0.6/1.0.6.exe",
-  "note": "UI 개선 및 각종 버그 수정"
+  "version": "1.0.7",
+  "download": "https://github.com/rlaehgus12123/GhostOverlay/releases/download/1.0.7/1.0.7.exe",
+  "note": "장부관련 기능 개편 및 성능 향상"
 }
+
 
 
 
